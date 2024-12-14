@@ -1,0 +1,32 @@
+# Node.js dependencies
+/node_modules
+
+# TypeScript build output
+/dist
+/tsconfig.tsbuildinfo
+
+# Log files
+*.log
+
+# Environment variables file
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Prettier
+/.prettierignore
+
+# Husky logs
+/.husky/_logs
+
+# IDE/editor configuration files
+.idea
+.vscode
+
+# npm-debug log
+npm-debug.log*
+
+# pnpm store (if you're using pnpm)
+.pnpm-store
